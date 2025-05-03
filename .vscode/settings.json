@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Bouncing Ball.sln"
+    "dotnet.defaultSolution": "bouncyballgame.sln"
 }
